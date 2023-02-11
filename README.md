@@ -1,0 +1,2 @@
+# PowershellMagic
+Powershell Oneliners
